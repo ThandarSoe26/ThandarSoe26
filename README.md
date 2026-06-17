@@ -159,11 +159,6 @@ AI-assisted tools — smart reminders, cognitive pattern detection — to suppor
 
 ---
 
-*Built with purpose — for the community, not just the corporate world.* & Senior Cognitive Support
-AI-assisted tools — smart reminders, cognitive pattern detection — to support seniors with memory loss and help families monitor changes early.
 
-`Python` `Healthcare AI` `ML` `Pandas`
-
----
 
 *Built with purpose — for the community, not just the corporate world.*
