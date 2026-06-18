@@ -12,7 +12,7 @@ Bilingual: English + မြန်မာဘာသာ | Based in Orlando, FL 🌴
 I'm transitioning from a background in executive administration and household management to **Healthcare Data Analyst**, working toward WGU's BS Data Analytics (starting January 2027). I've completed **8 Sophia Learning courses (24 ACE® credits)** in 9 months — while raising a family, managing a household, and studying in short bursts between chores.
 
 I don't just want a job in data. I want to use data to solve problems that actually matter:
-**climate resilience · women's health · labor inequality · ADHD support · dementia care**
+**climate resilience ·  labor inequality · Community Price-Drop Radar · women's health · ADHD support · dementia care**
 
 ---
 
