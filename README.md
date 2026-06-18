@@ -50,11 +50,6 @@ I don't just want a job in data. I want to use data to solve problems that actua
 
 `Git / GitHub` `VS Code` `Advanced MS Excel` `Raspberry Pi (SunFounder)` `SQLite`
 
----
-
-## 🌍 Projects — Priority Order
-
-> All projects target real-world community impact, not just portfolio checkboxes.
 
 ---
 ## 🌍 Projects — Priority Order
@@ -64,7 +59,7 @@ I don't just want a job in data. I want to use data to solve problems that actua
 ---
 
 ### 🥇 Priority 1 — Building NOW
-#### 🌿 Plant Climate Monitor *(with Hannah)*
+#### 🌿  Extreme Climate Plant Monitor *(with Hannah)*
 
 **The story behind this:**
 Florida heat is no joke. One week of extreme temperatures or an unexpected frost can wipe out months of careful gardening. As a homemaker who grows plants and relies on them, I needed a real solution — not just a weather app, but a system that monitors MY soil, MY garden, MY conditions in real time and warns me before it is too late.
