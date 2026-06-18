@@ -292,4 +292,4 @@ AI-assisted tools — smart reminders, cognitive pattern detection — to suppor
 
 
 
-*Built with purpose — for the community, not just the corporate world.*
+###*Built with purpose — for the community, not just the corporate world.*
